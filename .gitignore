@@ -1,5 +1,7 @@
-fintech_data_MET_P1_52-14669_clean.csv
-fintech_data_MET_P1_52-14669_clean.parquet
-lookup_table_MET_P1_52-14669.csv
-lookup_table_MET_P1_52-14669.parquet
-data/fintech_data_MET_P1_52_14669.csv
+*.csv
+*.parquet
+
+__pycache__/
+__pycache__
+volumes/
+data/
